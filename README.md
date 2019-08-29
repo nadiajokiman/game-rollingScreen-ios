@@ -1,2 +1,2 @@
 # game-rollingScreen-ios
-[PROJECT] Continuous rolling screen, score, and obstacles
+[PROJECT] Used iPhone ARKit to create a continuous rolling screen game, updated score, and obstacles
